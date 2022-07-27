@@ -60,3 +60,10 @@ ul li a:hover:after {
 
 
 /* nav section ends here */
+
+
+/* slider section */
+
+.carousel-caption {
+    font-family: sans-serif;
+}
